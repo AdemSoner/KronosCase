@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Yazilim\\KronosCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BBE8A77-133D-4D09-87B8-50D120734F9A}|..\\Case.Application\\Case.Application.csproj|g:\\yazilim\\case.application\\abstractions\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94518415-9C22-44DD-B0CF-903198A9F5CA}|..\\Case.Persistence\\Case.Persistence.csproj|g:\\yazilim\\case.persistence\\concretes\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140C9693-EC43-4203-8A29-741D26F2C762}|..\\Case.Domain\\Case.Domain.csproj|g:\\yazilim\\case.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140C9693-EC43-4203-8A29-741D26F2C762}|..\\Case.Domain\\Case.Domain.csproj|g:\\yazilim\\case.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "G:\\Yazilim\\Case.Application\\Abstractions\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\Case.Application\\Abstractions\\IOrderService.cs",
+              "ToolTip": "G:\\Yazilim\\Case.Application\\Abstractions\\IOrderService.cs",
+              "RelativeToolTip": "..\\Case.Application\\Abstractions\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:39:20.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "G:\\Yazilim\\Case.Persistence\\Concretes\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\Case.Persistence\\Concretes\\OrderService.cs",
+              "ToolTip": "G:\\Yazilim\\Case.Persistence\\Concretes\\OrderService.cs",
+              "RelativeToolTip": "..\\Case.Persistence\\Concretes\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:34:48.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "G:\\Yazilim\\Case.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\Case.Domain\\Entities\\Customer.cs",
+              "ToolTip": "G:\\Yazilim\\Case.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "..\\Case.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:34:14.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "G:\\Yazilim\\Case.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Case.Domain\\Entities\\Order.cs",
+              "ToolTip": "G:\\Yazilim\\Case.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\Case.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:34:07.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@KronosCase_HostAddress = http://localhost:5120
+
+GET {{KronosCase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
