@@ -14,12 +14,12 @@ git clone https://github.com/AdemSoner/KronosCase.git
 
 cd KronosCase
 
-###2. Projeyi Çalıştır  
+### 2. Projeyi Çalıştır  
 dotnet build  
 
 dotnet run --project KronosCase.Api  
 
-###3. Swagger Arayüzünü Aç
+### 3. Swagger Arayüzünü Aç
 Projeyi çalıştırdıktan sonra aşağıdaki URL'den Swagger UI arayüzüne erişebilirsin:
 
 https://localhost:7132/swagger  
