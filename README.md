@@ -17,12 +17,12 @@ cd KronosCase
 ### 2. Projeyi Çalıştır  
 dotnet build  
 
-dotnet run --project KronosCase.Api  
+dotnet run --project Presentation\Case.API 
 
 ### 3. Swagger Arayüzünü Aç
 Projeyi çalıştırdıktan sonra aşağıdaki URL'den Swagger UI arayüzüne erişebilirsin:
 
-https://localhost:7132/swagger  
+[http://localhost:5138/swagger/index.html](http://localhost:5138/swagger/index.html)  
 
 📦 API Endpointleri  
 
